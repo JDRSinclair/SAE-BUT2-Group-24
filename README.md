@@ -13,8 +13,8 @@ https://trello.com/invite/b/bNVvgVl7/ATTI5d8dd036fc122ea0f22399053eb78e753610601
 
 Organisation des dossiers en 3 grandes parties: 
 
- - algorithme : Voici la spécification de notre problème algorithmique, les schémas illustrant le problème et le résultat attendu après la résolution de ce dernier, un diagramme de classe                   documenté pour les différentes structures utilisées, un algorithme illustrant la solution technique et son dictionnaire des données.
+ - algorithme : Voici la spécification de notre problème algorithmique, les schémas illustrant le problème et le résultat attendu après la résolution de ce dernier, un diagramme de                       classe documenté pour les différentes structures utilisées, un algorithme illustrant la solution technique et son dictionnaire des données.
 
  - docs : Vous trouverez ici la documentation de notre code réalisée grâce à Doxygen.
 
- - src : Vous trouverez ici le code de notre solution pour notre problème algorithmique.
+ - src : Vous trouverez ici le code de notre solution pour notre problème algorithmique codé en C++.
